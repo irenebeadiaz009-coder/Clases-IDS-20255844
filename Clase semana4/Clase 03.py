@@ -36,4 +36,4 @@ print(min(my_string))
 print(max(my_string)) 
 print(my_string.count("A")) 
 
-my_string. #me abre operaciones que tiene mi string, opciones estas son conocidas como funcion 
+my_string #con un punto al final, me abre operaciones que tiene mi string, opciones estas son conocidas como funcion 
