@@ -6,7 +6,9 @@ print(nombre)
 edad= "19" 
 ciudad= "San Salvador" 
 profesion= "estudiante" 
-print("La usuaria es", nombre, "tiene", "19" , "vive en" , ciudad, "y es una" , profesion) 
+"""print("La usuaria es", nombre, "tiene", "19" , "vive en" , ciudad, "y es una" , profesion)"""
+
+print(f"La usuaria es {nombre} tiene {edad} y vive en {ciudad} y es una {profesion}") 
 
 #Una variable, en un programa, es como un contenedor que me ayuda a almacenar un valor.
 #Una cajita a la cual le pongo un nombre y guardo un objeto. 
